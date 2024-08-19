@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Yiuel
+- 👋 (FR) Salut, c'est @Yiuel
+- 👋 (EN) Hi, I’m @Yiuel
+- 👋 (EO) Saluton, mi estas @Yiuel
+- 👋 (JA) Konnichi ha, @Yiuel to moushimasu
+- 👋 (SV) Hej, jag är @Yiuel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
