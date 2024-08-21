@@ -1,7 +1,7 @@
 - 👋 (FR) Salut, c'est @Yiuel
 - 👋 (EN) Hi, I’m @Yiuel
 - 👋 (EO) Saluton, mi estas @Yiuel
-- 👋 (JA) Konnichi ha, @Yiuel to moushimasu
+- 👋 (JA) こんにちは、 @Yiuel と申します。
 - 👋 (SV) Hej, jag är @Yiuel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning programming and computer sciences.
