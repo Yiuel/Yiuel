@@ -1,8 +1,10 @@
+# Greetings / Salutations / Salutojn
 - 👋 (FR) Salut, c'est @Yiuel
 - 👋 (EN) Hi, I’m @Yiuel
 - 👋 (EO) Saluton, mi estas @Yiuel
 - 👋 (JA) こんにちは、 @Yiuel と申します。
 - 👋 (SV) Hej, jag är @Yiuel
+# Spoken and written languages / Langues parlées et écrites / Parolataj kaj skribataj lingvoj
 - 😛 FR (D), EN (D), EO (C2), JA (C2), SV (A1)
 <!---
 Yiuel/Yiuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
