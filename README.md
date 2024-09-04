@@ -1,4 +1,4 @@
-# Greetings / Salutations / Salutojn
+# Greetings / <br>Salutations / <br>Salutojn
 - 👋 (FR) Salut, c'est @Yiuel
 - 👋 (EN) Hi, I’m @Yiuel
 - 👋 (EO) Saluton, mi estas @Yiuel
